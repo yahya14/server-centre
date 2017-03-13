@@ -1,0 +1,5 @@
+Octoslots [1.2.2.0] is now available.
+
++ Added an update checker that you see right here. Hello!!
+
++ Octohax now appears in menus, Private mode is back, and more.
